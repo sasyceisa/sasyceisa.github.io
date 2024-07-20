@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sasyceisa.github.io/sitemap
+Sitemap: https://sasyceisa.github.io/app/sitemap
+Sitemap: https://sasyceisa.github.io/assets/sitemap
+Sitemap: https://sasyceisa.github.io/css/sitemap
+Sitemap: https://sasyceisa.github.io/includes/sitemap
+Sitemap: https://sasyceisa.github.io/item/sitemap
+Sitemap: https://sasyceisa.github.io/src/sitemap
